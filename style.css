@@ -1,0 +1,35 @@
+* {
+    margin: 0 auto;
+}
+
+img {
+    width: 1366px;
+    height: auto;
+    position: static;
+    z-index: 1;
+    }
+
+div {
+    background-color: white;
+    float: right;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 700px;
+    text-align: right;
+    z-index: 2;
+    font-weight: 900;
+    font-size: small;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+h1 {
+    margin-bottom: 15px;
+}
+
+.div-satu {
+    padding: 20px 10px 5px 10px;
+}
